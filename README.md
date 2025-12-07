@@ -13,6 +13,7 @@ https://github.com/aws-samples/aws-three-tier-web-architecture-workshop.git
 - Create a IAM Role  AWS-THREE-TIRE-ROLE add permession
 - AmazonSSMManagedInstanceCore
 - AmazonS3ReadOnlyAccess
+- AmazonEC2RoleforSSM
 -  Create a role 
 
   ![image](https://github.com/Patni123/AWS-THRRE-TIRE-PROJECT/assets/46121108/33f37687-01cb-43a7-b676-6751ccc16f17)
